@@ -1,15 +1,22 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
+<!DOCTYPE HTML>
+<html>
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>怎么把自己做的网页托管在github上_3L_csdn的博客-CSDN博客_github托管网页</title>
+<title>网站</title>
+<meta charset="utf-8">
+<meta name="renderer" content="webkit|ie-comp|ie-stand">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
 </head>
 <body>
 <tbody>
-     <a href="123.com">
-          <img src="123.ccc" alt="11" />
-     </a>
+<a href="23.com"><img src="222.jpg" alt="/" /></a>
+<a href="24.com"><img src="212.jpg" alt="/" /></a>
+<a href="25.com"><img src="232.jpg" alt="/" /></a>
+<a href="26.com"><img src="242.jpg" alt="/" /></a>
+<a href="22.com"><img src="242.jpg" alt="/" /></a>
 </tbody>
+
+
 </body>
-</html>     
+</html>
